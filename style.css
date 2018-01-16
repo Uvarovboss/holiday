@@ -1,5 +1,5 @@
 body{
-	background-image: url(https://images.unsplash.com/photo-1502790671504-542ad42d5189?auto=format&fit=crop&w=750&q=80);
+	background-image: url(https://images.unsplash.com/photo-1435777940218-be0b632d06db?auto=format&fit=crop&w=889&q=80);
 	background-size: 100%;
 /*	opacity: 0.6;*/
 }
@@ -152,6 +152,7 @@ a{
 #footerphoto img{
 	width: 50px;
 	height: 50px;
+	float: left;
 }
 #footerphoto details{
 	margin-left: 150px;
